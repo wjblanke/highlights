@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The main rider launches a big jump with long airtime, and in frames 5\u20137 the body goes horizontal and inverted relative to the board before coming back upright for the descent, which indicates an aerial rotation rather than just the wing turning.", "model": "claude-opus-5-5"}

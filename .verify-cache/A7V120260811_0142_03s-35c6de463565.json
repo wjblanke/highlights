@@ -1,0 +1,1 @@
+{"category": "camera_rotated", "reason": "The whole frame is sideways: the water and shoreline run vertically, and the rider is riding normally with a parawing. The apparent rotation comes from the image orientation, not from the rider's body flipping.", "model": "claude-opus-5-5"}

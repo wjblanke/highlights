@@ -1,0 +1,88 @@
+{
+  "title": "Full Send Alarm",
+  "bpm": 100,
+  "key_root": 7,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "min7"
+    },
+    {
+      "semitones_above_key": 0,
+      "quality": "min7"
+    },
+    {
+      "semitones_above_key": 1,
+      "quality": "dom7"
+    },
+    {
+      "semitones_above_key": 0,
+      "quality": "min7"
+    }
+  ],
+  "chord_rhythm": "x.....x..x-.....",
+  "bass": "r-r...r-.ro..f..",
+  "kick": "x.x...x..xx..x..",
+  "clap": "....x..g....x..g",
+  "closed_hat": "x.x.x.x.x.x.xxx.",
+  "open_hat": ".......x.......x",
+  "shaker": "...x......x.x...",
+  "arp": "4---......2-....",
+  "arrangement": [
+    {
+      "name": "Intro",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "clap",
+        "hats"
+      ]
+    },
+    {
+      "name": "Verse",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords"
+      ]
+    },
+    {
+      "name": "Hook",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Scratch Break",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "clap",
+        "hats"
+      ]
+    },
+    {
+      "name": "Hook Return",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    }
+  ],
+  "swing": 0.08,
+  "sound": "hiphop"
+}

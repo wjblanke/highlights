@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider leaves the water in a jump, and in mid-air (frames 4\u20137) the body tips sideways with the board going near-vertical. The rider then comes back around and lands upright on the board, which reads as an aerial rotation.", "model": "claude-opus-5-5"}

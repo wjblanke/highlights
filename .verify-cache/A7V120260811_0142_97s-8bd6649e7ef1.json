@@ -1,0 +1,1 @@
+{"category": "camera_rotated", "reason": "The whole frame is rotated 90 degrees: the water and treeline run vertically, so the rider appears sideways throughout. The apparent rotation comes from the camera orientation, not from the rider's motion.", "model": "claude-opus-5-5"}

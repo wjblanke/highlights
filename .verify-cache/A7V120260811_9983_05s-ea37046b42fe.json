@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into a big jump (frames 2-7), and the board and body orientation change in the air, with the board going vertical and then level again, consistent with an aerial rotation before landing. This is more than just the wing flipping.", "model": "claude-opus-5-5"}

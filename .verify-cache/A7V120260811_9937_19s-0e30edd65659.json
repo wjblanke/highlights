@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches off the water and in frames 5-8 the board goes overhead with the body inverted, completing a flip in the air before landing upright in frames 9-11. The background shifts from water to trees as the camera follows the jump, but the rotation is the rider's own body, not just the wing.", "model": "claude-opus-5-5"}
