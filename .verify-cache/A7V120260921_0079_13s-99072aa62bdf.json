@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches high into the air, and in frames 4-7 the body and board turn sideways and inverted relative to the wing before coming back upright under it in frames 8-11. This indicates an aerial rotation.", "model": "claude-opus-5-5"}

@@ -1,0 +1,89 @@
+{
+  "title": "Desert Wave Rider",
+  "bpm": 108,
+  "key_root": 9,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "min7"
+    },
+    {
+      "semitones_above_key": 5,
+      "quality": "maj7"
+    },
+    {
+      "semitones_above_key": 10,
+      "quality": "dom7"
+    },
+    {
+      "semitones_above_key": 7,
+      "quality": "min9"
+    }
+  ],
+  "chord_rhythm": "..x...x-.x..x..x",
+  "bass": "r.go.rb.g.r-f.ob",
+  "kick": "x..x..x...x..x..",
+  "clap": "..g.x..g.g..x..g",
+  "closed_hat": "xxxxxxx.xxxxxx.x",
+  "open_hat": ".......x......x.",
+  "shaker": "x.xxx.xxx.xxx.xx",
+  "arp": "...2..1.......30",
+  "arrangement": [
+    {
+      "name": "Intro",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "hats",
+        "bass"
+      ]
+    },
+    {
+      "name": "Groove",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords"
+      ]
+    },
+    {
+      "name": "Full Ride",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Breakdown",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass"
+      ]
+    },
+    {
+      "name": "Peak",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    }
+  ],
+  "swing": 0.12,
+  "sound": "funk"
+}

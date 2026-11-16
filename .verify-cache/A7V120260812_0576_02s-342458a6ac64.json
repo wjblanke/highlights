@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into a big jump, and in frames 4-5 the body tips sideways and the board goes vertical. In frames 8-10 the board's underside faces the camera, which indicates an aerial rotation rather than just a wing move.", "model": "claude-opus-5-5"}

@@ -1,0 +1,95 @@
+{
+  "title": "Sky High Heartbeat",
+  "bpm": 124,
+  "key_root": 1,
+  "progression": [
+    {
+      "semitones_above_key": 9,
+      "quality": "maj7"
+    },
+    {
+      "semitones_above_key": 10,
+      "quality": "min7"
+    },
+    {
+      "semitones_above_key": 5,
+      "quality": "min7"
+    },
+    {
+      "semitones_above_key": 8,
+      "quality": "dom7"
+    }
+  ],
+  "chord_rhythm": "..x-..x...x-.x-.",
+  "bass": ".rr..o.f.rr..f.o",
+  "kick": "x...x...x...x...",
+  "clap": "....x.......x...",
+  "closed_hat": "x.x.x.x.x.x.x.x.",
+  "open_hat": "..x...x...x...x.",
+  "shaker": "xxxxxxxxxxxxxxxx",
+  "arp": "0.21.3.20.13.4.2",
+  "arrangement": [
+    {
+      "name": "Intro",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "hats",
+        "chords"
+      ]
+    },
+    {
+      "name": "Verse",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass"
+      ]
+    },
+    {
+      "name": "Build",
+      "bars": 4,
+      "layers": [
+        "clap",
+        "hats",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Chorus",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Breakdown",
+      "bars": 4,
+      "layers": [
+        "chords",
+        "arp",
+        "bass"
+      ]
+    },
+    {
+      "name": "Final Chorus",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    }
+  ]
+}

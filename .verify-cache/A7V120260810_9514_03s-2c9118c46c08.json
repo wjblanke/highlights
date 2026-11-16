@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into the air in frames 4-5 and appears to spin, facing the camera in frame 6 after facing away earlier. They then crash into the water in frames 8-9, so the body itself rotates during the jump.", "model": "claude-opus-5-5"}

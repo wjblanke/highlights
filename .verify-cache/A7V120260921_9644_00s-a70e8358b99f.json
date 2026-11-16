@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into a high jump, and through the airborne frames the body orientation changes relative to the camera, from back-turned to sideways to facing forward, before landing. This suggests a spin in the air, though the rider is small and the rotation is not fully clear.", "model": "claude-opus-5-5"}

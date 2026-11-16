@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider makes a big jump, then disappears into a large splash where the wing and body orientation change sharply (frames 6\u20138), which looks like a spin on landing. They then ride away upright. The rider is upright through most of the descent, so this is a moderate-confidence call.", "model": "claude-opus-5-5"}

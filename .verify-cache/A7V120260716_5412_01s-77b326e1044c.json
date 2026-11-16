@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into the air (frames 5-8), with the board going vertical beneath them. Their body orientation changes from side-on to back-facing to front-facing before landing, which indicates an aerial spin rather than just a wing move.", "model": "claude-opus-5-5"}

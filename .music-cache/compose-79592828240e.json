@@ -1,0 +1,99 @@
+{
+  "title": "Halfpipe Circuitry",
+  "bpm": 112,
+  "key_root": 2,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "min7"
+    },
+    {
+      "semitones_above_key": 3,
+      "quality": "maj"
+    },
+    {
+      "semitones_above_key": 5,
+      "quality": "min7"
+    },
+    {
+      "semitones_above_key": 7,
+      "quality": "dom7"
+    }
+  ],
+  "chord_rhythm": "..x...x...x..x..",
+  "bass": "r..o.rf.r.b.o.r-",
+  "kick": "x.....x...x...x.",
+  "clap": "....x.......x..g",
+  "closed_hat": "xxxxxx.xxxxxxx.x",
+  "open_hat": "......x.......x.",
+  "shaker": "...x.....x.x....",
+  "arp": "4-.3.2--0.1.2-..",
+  "arrangement": [
+    {
+      "name": "Intro",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "clap",
+        "hats"
+      ]
+    },
+    {
+      "name": "Groove",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords"
+      ]
+    },
+    {
+      "name": "Hook",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Scratch Break",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "clap",
+        "hats"
+      ]
+    },
+    {
+      "name": "Bass Ride",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "arp"
+      ]
+    },
+    {
+      "name": "Full Hook",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    }
+  ],
+  "swing": 0.04,
+  "sound": "electro"
+}

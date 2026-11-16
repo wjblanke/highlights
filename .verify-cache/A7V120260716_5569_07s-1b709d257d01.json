@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider descends upright from a big jump, then crashes on landing. In frames 9\u201311 the board flips up so its underside faces the camera, which suggests the rider's body tipped backward in the crash. The tumble is only partly visible, so this is a moderate-confidence call.", "model": "claude-opus-5-5"}

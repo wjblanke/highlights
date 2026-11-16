@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne with the board above water in frames 0-4, body tilted and rotating through the air, then lands with a splash in frames 6-8 and rides away. This is a jump with a rotation, not just a wing flip.", "model": "claude-opus-5-5"}

@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into a big jump and, while airborne, the body and board change facing direction relative to the camera (side, back, then front), indicating an aerial spin before landing back on the foil.", "model": "claude-opus-5-5"}

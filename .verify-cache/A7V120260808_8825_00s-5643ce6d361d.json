@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne high above the water and appears inverted at the top of the jump (frame 3). The rider then comes around with the board below them and lands with a splash, which indicates an aerial rotation rather than just a wing flip.", "model": "claude-opus-5-5"}

@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne and inverted in frames 0-3, with the board above their head, and rotates through a flip before landing in frames 4-6. The background stays level, so the picture itself is not rotated.", "model": "claude-opus-5-5"}

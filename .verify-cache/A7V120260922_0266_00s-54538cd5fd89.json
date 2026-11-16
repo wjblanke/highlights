@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The kiter is airborne for a long hang-time jump, and by frame 9 the body is sideways or inverted as it comes down, ending in a splash, which indicates a rotation or tumbling crash.", "model": "claude-opus-5-5"}

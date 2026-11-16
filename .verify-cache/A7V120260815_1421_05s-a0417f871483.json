@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne and upside down in frames 0-3, with the board above their head, so their body flips through a rotation before landing in a splash. They then recover and ride away.", "model": "claude-opus-5-5"}

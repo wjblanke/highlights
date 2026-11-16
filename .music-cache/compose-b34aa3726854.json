@@ -1,0 +1,84 @@
+{
+  "title": "Rust Engine",
+  "bpm": 126,
+  "key_root": 4,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "min"
+    },
+    {
+      "semitones_above_key": 8,
+      "quality": "maj7"
+    },
+    {
+      "semitones_above_key": 3,
+      "quality": "maj"
+    },
+    {
+      "semitones_above_key": 10,
+      "quality": "sus2"
+    }
+  ],
+  "chord_rhythm": "x..x..x...x..x..",
+  "bass": ".rr.or.f.rr.o.fr",
+  "kick": "x...x...x...x...",
+  "clap": "....x.......x...",
+  "closed_hat": "x.xxx.xxx.xxx.xx",
+  "open_hat": "..x...x...x...x.",
+  "shaker": "xxxxxxxxxxxxxxxx",
+  "arp": "0.21.3.20.14.3.2",
+  "arrangement": [
+    {
+      "name": "Intro",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "hats",
+        "arp"
+      ]
+    },
+    {
+      "name": "Grind",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass"
+      ]
+    },
+    {
+      "name": "Surge",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords"
+      ]
+    },
+    {
+      "name": "Breakdown",
+      "bars": 4,
+      "layers": [
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Assault",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    }
+  ]
+}

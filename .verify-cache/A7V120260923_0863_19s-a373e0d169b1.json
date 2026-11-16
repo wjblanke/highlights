@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The main wing foiler launches into a jump in frames 6\u201310, with the board and body changing orientation in the air before landing in frame 11. This looks like an aerial rotation rather than just a wing flip.", "model": "claude-opus-5-5"}

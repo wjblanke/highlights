@@ -1,0 +1,86 @@
+{
+  "title": "Neon Causeway Pursuit",
+  "bpm": 124,
+  "key_root": 9,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "min9"
+    },
+    {
+      "semitones_above_key": 8,
+      "quality": "maj7"
+    },
+    {
+      "semitones_above_key": 3,
+      "quality": "maj"
+    },
+    {
+      "semitones_above_key": 10,
+      "quality": "sus2"
+    }
+  ],
+  "chord_rhythm": "x--x--x---x-x---",
+  "bass": ".rro.rfr.rro.fro",
+  "kick": "x...x...x...x...",
+  "clap": "....x.......x...",
+  "closed_hat": "x.xxx.xxx.xxx.xx",
+  "open_hat": "..x...x...x...x.",
+  "shaker": ".xx.xxx..xx.xxx.",
+  "arp": "02340.3.21032.4.",
+  "arrangement": [
+    {
+      "name": "Intro",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "hats",
+        "chords"
+      ]
+    },
+    {
+      "name": "Build",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords"
+      ]
+    },
+    {
+      "name": "Main Theme",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Breakdown",
+      "bars": 4,
+      "layers": [
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Final Chase",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    }
+  ]
+}

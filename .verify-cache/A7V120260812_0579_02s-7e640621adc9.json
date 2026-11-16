@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into a big aerial jump, and across the airborne frames the body and wing orientation change (back to camera, then facing it), consistent with a spin in the air rather than just a wing flip. This is a judgement call, since the rider looks fairly upright in most frames.", "model": "claude-opus-5-5"}

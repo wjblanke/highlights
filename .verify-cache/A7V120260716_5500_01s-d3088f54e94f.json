@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into the air in the later frames, and the body and board change orientation noticeably, appearing sideways in frame 8 and upright again by frames 10-11. This points to a rotation during the jump, though the rider is small in the frames.", "model": "claude-opus-5-5"}

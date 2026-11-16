@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The tracked rider with the white wing launches a jump and appears inverted in the air with the board overhead (frames 6\u20138), then lands in a big splash (frames 9\u201310). This indicates a rotation or tumble of the rider's body, not just the wing.", "model": "claude-opus-5-5"}

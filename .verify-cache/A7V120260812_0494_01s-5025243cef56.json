@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches off the water in frames 0-2 and stays airborne through frames 3-8, where the body tilts and tucks. This looks like an aerial rotation, and he lands and rides away in frames 9-11, though the rider is small so the rotation is inferred rather than sharply visible.", "model": "claude-opus-5-5"}

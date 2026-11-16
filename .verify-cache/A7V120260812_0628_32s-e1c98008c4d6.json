@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The tracked rider with the white wing goes airborne in frames 7-9, with the body tilted sideways and inverted while the wing swings around, then rides away in frames 10-11. This looks like an aerial rotation (a loop) rather than just a wing flip, though the rider is small and distant.", "model": "claude-opus-5-5"}

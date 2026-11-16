@@ -1,0 +1,1 @@
+{"category": "wing_only", "reason": "The kitefoiler pops into a small jump in frames 4-6, where the board tilts up steeply, but the rider's body stays upright with no visible flip or spin before landing in frame 7. Only the board's angle changes, so this is not a body rotation.", "model": "claude-opus-5-5"}

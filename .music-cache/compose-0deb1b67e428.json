@@ -1,0 +1,89 @@
+{
+  "title": "Full Send Funk",
+  "bpm": 108,
+  "key_root": 4,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "min7"
+    },
+    {
+      "semitones_above_key": 5,
+      "quality": "dom7"
+    },
+    {
+      "semitones_above_key": 0,
+      "quality": "min9"
+    },
+    {
+      "semitones_above_key": 10,
+      "quality": "dom7"
+    }
+  ],
+  "chord_rhythm": ".x...x.x.x...x..",
+  "bass": "r..o.gr.b.r.gof.",
+  "kick": "x..x..x...x..x..",
+  "clap": "..g.x..g.g..x.g.",
+  "closed_hat": "xxxxxx.xxxxxxx.x",
+  "open_hat": "......x.......x.",
+  "shaker": "..x...x...x...x.",
+  "arp": "...2......3.4...",
+  "arrangement": [
+    {
+      "name": "Intro",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "hats",
+        "chords"
+      ]
+    },
+    {
+      "name": "Groove",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords"
+      ]
+    },
+    {
+      "name": "Hook",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Breakdown",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass"
+      ]
+    },
+    {
+      "name": "Hook Reprise",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    }
+  ],
+  "swing": 0.12,
+  "sound": "funk"
+}

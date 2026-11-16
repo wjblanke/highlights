@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne in frames 0-5, with the body inverted and rotating (head down, board overhead) before landing in frame 6 and riding away. This is an aerial flip or rotation.", "model": "claude-opus-5-5"}

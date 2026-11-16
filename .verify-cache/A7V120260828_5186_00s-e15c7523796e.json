@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne from frames 1 to 10, and their body orientation changes from facing right, to back-to-camera, to facing left, before landing in frame 11. This indicates an in-air spin rather than a wing-only maneuver.", "model": "claude-opus-5-5"}

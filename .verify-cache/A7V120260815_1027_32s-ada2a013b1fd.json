@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider leaves the water and in frames 6-9 the body goes horizontal and inverted in the air, which reads as a flip or rotation, then lands in frame 11. The rider is small and far away, so this is a judgment from the silhouettes.", "model": "claude-opus-5-5"}

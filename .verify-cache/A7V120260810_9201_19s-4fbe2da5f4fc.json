@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into the air, and in frames 3\u20134 the board swings up near head height with the body inverted. By frames 5\u20138 the rider is upright again and lands in frames 10\u201311, which is an aerial flip or loop.", "model": "claude-opus-5-5"}

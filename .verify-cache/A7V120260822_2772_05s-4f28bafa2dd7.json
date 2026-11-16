@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The kiter launches a big air jump, and in mid-air the body appears to turn away from the camera (frames 5-6) and then face it again (frames 7-11), which suggests a spin during the trick. The rider is fairly small in frame, so the rotation is likely but not certain.", "model": "claude-opus-5-5"}

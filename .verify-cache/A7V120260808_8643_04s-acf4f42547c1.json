@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The tracked rider launches high, and in frames 2\u20134 the board swings up above him, showing his body going sideways or inverted before a splashy landing. That looks like an aerial rotation or tumbling crash, not just a wing flip.", "model": "claude-opus-5-5"}

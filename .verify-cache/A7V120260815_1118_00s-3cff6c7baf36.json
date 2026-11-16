@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne and inverted in the early frames (board above, body below/sideways), then rotates upright through frames 2\u20136 before landing and crashing, so the rider's body clearly rotates in the air, like a flip or backloop.", "model": "claude-opus-5-5"}

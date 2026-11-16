@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne with the board above and inverted relative to the body in early frames (0-5), then comes upright before landing, indicating a flip/rotation in the air followed by a crash into the water.", "model": "claude-opus-5-5"}

@@ -1,0 +1,86 @@
+{
+  "title": "Gravity Is Optional",
+  "bpm": 76,
+  "key_root": 4,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "min7"
+    },
+    {
+      "semitones_above_key": 8,
+      "quality": "maj7"
+    },
+    {
+      "semitones_above_key": 5,
+      "quality": "sus2"
+    },
+    {
+      "semitones_above_key": 7,
+      "quality": "maj"
+    }
+  ],
+  "chord_rhythm": "x---------------",
+  "bass": "r-----.r--f-....",
+  "kick": "x......x..x.....",
+  "clap": "....x.......x...",
+  "closed_hat": "x.x.x.x.x.x.x.x.",
+  "open_hat": "..............x.",
+  "shaker": "..x...x...x...x.",
+  "arp": "2-----1-0-------",
+  "arrangement": [
+    {
+      "name": "Intro Haze",
+      "bars": 4,
+      "layers": [
+        "chords",
+        "bass"
+      ]
+    },
+    {
+      "name": "Groove Rises",
+      "bars": 8,
+      "layers": [
+        "chords",
+        "bass",
+        "kick",
+        "clap",
+        "hats"
+      ]
+    },
+    {
+      "name": "Lead Takes Flight",
+      "bars": 8,
+      "layers": [
+        "chords",
+        "bass",
+        "kick",
+        "clap",
+        "hats",
+        "arp"
+      ]
+    },
+    {
+      "name": "Quiet Drift",
+      "bars": 4,
+      "layers": [
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Final Ascent",
+      "bars": 8,
+      "layers": [
+        "chords",
+        "bass",
+        "kick",
+        "clap",
+        "hats",
+        "arp"
+      ]
+    }
+  ],
+  "sound": "rock",
+  "swing": 0.0
+}

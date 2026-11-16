@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne across several frames, the body orientation changes as the rider and wing spin around, and the clip ends with the rider crashed in the water beside the wing and board. This points to an aerial rotation attempt rather than a wing flip while standing on the board.", "model": "claude-opus-5-5"}

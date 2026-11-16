@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The main rider is airborne for many frames, hanging from the wing, while the board's direction swings from pointing one way to the other. This suggests the rider spins in the air before landing around frame 7, though no clear flip of the body is visible.", "model": "claude-opus-5-5"}

@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into a big aerial jump, and the board's orientation swings around beneath him (sideways in frames 3\u20134, flat again in frame 5) while his body facing changes. This suggests a spin in the air before he lands in frame 11.", "model": "claude-opus-5-5"}

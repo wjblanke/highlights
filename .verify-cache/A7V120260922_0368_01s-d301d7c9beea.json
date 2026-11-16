@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne in a big jump, and the wing alternates between its orange and white sides through frames 4\u20139, which suggests the rider's body spins in the air before landing in frames 9\u201311. The rider is small and the spin is inferred mainly from the wing, so this is not certain.", "model": "claude-opus-5-5"}

@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches a high jump; in frames 5-8 the body and board orient differently in the air (board kicked up, body inverted/rotating) before landing with a splash in frames 9-10, indicating an aerial rotation rather than just a wing flip.", "model": "claude-opus-5-5"}

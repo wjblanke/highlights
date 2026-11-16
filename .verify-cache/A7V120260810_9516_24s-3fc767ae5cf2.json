@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The tracked rider launches into the air (frame 6, board up and body tipping back) and then crashes into a big splash (frames 7-9). This indicates the body rotating or tumbling during the jump and crash, not just the wing turning.", "model": "claude-opus-5-5"}

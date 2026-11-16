@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider leaves the water and in frames 5-7 the board goes vertical and then inverted above the rider, showing the body flipping in the air before landing in frames 8-11. The camera framing stays level throughout, so the rotation is the rider's own.", "model": "claude-opus-5-5"}

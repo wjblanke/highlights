@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider leaves the water in a jump, and the board's orientation changes through the air (pointing right, then left, then toward the camera) before a splashy landing. This suggests a spin in the air, though the rotation is not unambiguous at this resolution.", "model": "claude-opus-5-5"}

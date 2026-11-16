@@ -1,0 +1,86 @@
+{
+  "title": "Night Ledger Pursuit",
+  "bpm": 126,
+  "key_root": 9,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "min7"
+    },
+    {
+      "semitones_above_key": 8,
+      "quality": "maj7"
+    },
+    {
+      "semitones_above_key": 5,
+      "quality": "maj"
+    },
+    {
+      "semitones_above_key": 7,
+      "quality": "sus2"
+    }
+  ],
+  "chord_rhythm": "x--.x-.x--.x-.x.",
+  "bass": ".rro.rfr.rro.rfo",
+  "kick": "x...x...x...x...",
+  "clap": "....x.......x...",
+  "closed_hat": "xx.xxx.xxx.xxx.x",
+  "open_hat": "..x...x...x...x.",
+  "shaker": "x.xxx.xxx.xxx.xx",
+  "arp": "0240324013420243",
+  "arrangement": [
+    {
+      "name": "Intro",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "hats",
+        "bass"
+      ]
+    },
+    {
+      "name": "Chase",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords"
+      ]
+    },
+    {
+      "name": "Pursuit",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Breakdown",
+      "bars": 4,
+      "layers": [
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Final Run",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    }
+  ]
+}

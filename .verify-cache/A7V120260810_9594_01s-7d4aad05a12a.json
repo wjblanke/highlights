@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches out of a big splash into a high airborne jump, and their body orientation shifts between facing toward and away from the camera across the air frames, which suggests a spin. The rider is small, so this is a moderate-confidence call.", "model": "claude-opus-5-5"}

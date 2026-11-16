@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The orange-wing rider is airborne in several frames, with the board's underside turned toward the camera and the body inverted around frames 5\u20136 and 9\u201310. That indicates the rider's own body rotates through jumps, not just the wing.", "model": "claude-opus-5-5"}

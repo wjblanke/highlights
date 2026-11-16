@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches the board fully out of the water (frames 6-8) and lands facing the opposite way relative to the camera, which indicates an aerial rotation rather than a simple wing flip while riding.", "model": "claude-opus-5-5"}

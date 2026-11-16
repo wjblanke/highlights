@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is clearly airborne above the water, and the wing's orientation cycles from flat to vertical and back while the rider turns beneath it, which suggests an aerial spin. At this small scale the body rotation is inferred mostly from the wing, so this call is somewhat uncertain.", "model": "claude-opus-5-5"}

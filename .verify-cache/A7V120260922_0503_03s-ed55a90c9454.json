@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The orange-wing rider is repeatedly airborne, with the board swinging up and the body going sideways or inverted (frames 0, 7, 8). The sequence ends with the rider crashing into the water (frame 9), which indicates jump rotations and a tumbling crash.", "model": "claude-opus-5-5"}

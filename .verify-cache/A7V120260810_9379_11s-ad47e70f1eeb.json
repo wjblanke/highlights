@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider jumps high with the board inverted above/beside the body (frames 0-5), the body orientation changes in the air, then the rider crashes and tumbles into the water with the wing (frames 7-10). This is an aerial rotation/crash of the rider's own body.", "model": "claude-opus-5-5"}

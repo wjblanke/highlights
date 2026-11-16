@@ -1,0 +1,89 @@
+{
+  "title": "Highlight Reel Fever",
+  "bpm": 112,
+  "key_root": 4,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "min9"
+    },
+    {
+      "semitones_above_key": 5,
+      "quality": "dom7"
+    },
+    {
+      "semitones_above_key": 8,
+      "quality": "maj7"
+    },
+    {
+      "semitones_above_key": 7,
+      "quality": "dom7"
+    }
+  ],
+  "chord_rhythm": ".x..x.-..x...x..",
+  "bass": "r..o.gr.b.rg.fo.",
+  "kick": "x..x..x...x..x..",
+  "clap": "..g.x..g.g..x.g.",
+  "closed_hat": "xxxxxxx.xxxxxxx.",
+  "open_hat": ".......x.......x",
+  "shaker": "..x...x...x...x.",
+  "arp": "0......2....4.3.",
+  "arrangement": [
+    {
+      "name": "Intro",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "hats",
+        "chords"
+      ]
+    },
+    {
+      "name": "Groove",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords"
+      ]
+    },
+    {
+      "name": "Chorus",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Breakdown",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass"
+      ]
+    },
+    {
+      "name": "Final Chorus",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    }
+  ],
+  "swing": 0.12,
+  "sound": "funk"
+}

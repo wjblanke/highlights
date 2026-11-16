@@ -1,0 +1,88 @@
+{
+  "title": "Island Line Drift",
+  "bpm": 74,
+  "key_root": 7,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "maj"
+    },
+    {
+      "semitones_above_key": 5,
+      "quality": "maj"
+    },
+    {
+      "semitones_above_key": 9,
+      "quality": "min7"
+    },
+    {
+      "semitones_above_key": 5,
+      "quality": "maj"
+    }
+  ],
+  "chord_rhythm": "....x.......x...",
+  "bass": "..r-.f..o-.t-.r.",
+  "kick": "........x.......",
+  "clap": "..g.....x.....g.",
+  "closed_hat": "x.x.x.x.x.x.x.x.",
+  "open_hat": "......x.......x.",
+  "shaker": "x.x.x.x.x.x.x.x.",
+  "arp": "2---1-0-....4-2-",
+  "arrangement": [
+    {
+      "name": "Intro",
+      "bars": 4,
+      "layers": [
+        "chords",
+        "bass"
+      ]
+    },
+    {
+      "name": "Groove",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords"
+      ]
+    },
+    {
+      "name": "Melodica Theme",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Dub Break",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass"
+      ]
+    },
+    {
+      "name": "Theme Return",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    }
+  ],
+  "swing": 0.12,
+  "sound": "reggae"
+}

@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne in frames 8-10, with the body going from upright to tilted sideways/inverted, and then lands in a splash. This is an aerial rotation, not just the wing turning.", "model": "claude-opus-5-5"}

@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The kiteboarder is airborne through frames 0-7 and their orientation changes from side-on, to back-to-camera, to facing forward on landing, which indicates a spin during the jump. They land and ride away in frames 8-11.", "model": "claude-opus-5-5"}

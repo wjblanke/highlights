@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The main rider launches high into the air, with the board and body changing orientation mid-air across frames 2\u20134 and 7\u20138. The rider then crashes into the water with a big splash in frame 9, which points to an aerial rotation or tumble rather than a wing-only move.", "model": "claude-opus-5-5"}

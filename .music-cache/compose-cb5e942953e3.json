@@ -1,0 +1,89 @@
+{
+  "title": "Gravity Is Optional",
+  "bpm": 108,
+  "key_root": 4,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "min9"
+    },
+    {
+      "semitones_above_key": 5,
+      "quality": "dom7"
+    },
+    {
+      "semitones_above_key": 10,
+      "quality": "dom7"
+    },
+    {
+      "semitones_above_key": 5,
+      "quality": "dom7"
+    }
+  ],
+  "chord_rhythm": ".x.x..x-.x..x.x.",
+  "bass": "r..r.gob..r-gbor",
+  "kick": "x..x..x...x..x..",
+  "clap": "....x..g.g..x..g",
+  "closed_hat": "xxxxxxxxxxxxxx.x",
+  "open_hat": "..............x.",
+  "shaker": ".x.x.x.x.x.x.x.x",
+  "arp": "...4..2.......0.",
+  "arrangement": [
+    {
+      "name": "Intro",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "hats",
+        "chords"
+      ]
+    },
+    {
+      "name": "Groove",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords"
+      ]
+    },
+    {
+      "name": "Main Hit",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Breakdown",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass"
+      ]
+    },
+    {
+      "name": "Peak",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    }
+  ],
+  "swing": 0.12,
+  "sound": "funk"
+}

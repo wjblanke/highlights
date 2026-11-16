@@ -1,0 +1,86 @@
+{
+  "title": "Thunder Over the Ridge",
+  "bpm": 76,
+  "key_root": 4,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "min7"
+    },
+    {
+      "semitones_above_key": 10,
+      "quality": "maj"
+    },
+    {
+      "semitones_above_key": 7,
+      "quality": "maj7"
+    },
+    {
+      "semitones_above_key": 2,
+      "quality": "sus2"
+    }
+  ],
+  "chord_rhythm": "x---------------",
+  "bass": "r-----.r--f-r-..",
+  "kick": "x.....xx..x.....",
+  "clap": "....x.......x...",
+  "closed_hat": "x.x.x.x.x.x.x.x.",
+  "open_hat": "..............x.",
+  "shaker": ".xx..xx..xx..xx.",
+  "arp": "2-----1-0-----3.",
+  "arrangement": [
+    {
+      "name": "Intro",
+      "bars": 4,
+      "layers": [
+        "chords",
+        "bass"
+      ]
+    },
+    {
+      "name": "Riff",
+      "bars": 8,
+      "layers": [
+        "chords",
+        "bass",
+        "kick",
+        "clap",
+        "hats"
+      ]
+    },
+    {
+      "name": "Lead",
+      "bars": 8,
+      "layers": [
+        "chords",
+        "bass",
+        "kick",
+        "clap",
+        "hats",
+        "arp"
+      ]
+    },
+    {
+      "name": "Haze",
+      "bars": 4,
+      "layers": [
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Final Charge",
+      "bars": 8,
+      "layers": [
+        "chords",
+        "bass",
+        "kick",
+        "clap",
+        "hats",
+        "arp"
+      ]
+    }
+  ],
+  "sound": "rock",
+  "swing": 0.0
+}

@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The main rider launches a big jump, and in the air the board and body orientation change: the dark underside of the board shows in frames 4\u20136 and the lighter side in frames 8\u201310. This indicates a rotation in the air before landing.", "model": "claude-opus-5-5"}

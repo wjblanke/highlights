@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into the air and in frames 8-9 the body and board are tilted sideways and inverted relative to the horizon, showing an aerial rotation before landing upright in frames 10-11. The camera framing stays level throughout, so the tilt is the rider's own motion.", "model": "claude-opus-5-5"}

@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne high above the water with the wing, and their body orientation changes through the frames (inverted with legs up in early frames) before landing with a splash, indicating an aerial rotation.", "model": "claude-opus-5-5"}

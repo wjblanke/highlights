@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "In frames 0-2 the rider is airborne and inverted with the board above them, rotating through a flip before landing in a splash and riding away. The rider's body clearly goes upside down, so this is a real aerial rotation.", "model": "claude-opus-5-5"}

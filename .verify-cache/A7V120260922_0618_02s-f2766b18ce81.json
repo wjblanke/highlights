@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The main rider launches into the air in frames 3-6, and his body appears to rotate through an inverted position around frame 6. He then comes down, and by frames 10-11 the wing is on the water, which suggests a rotating jump that ends in a crash.", "model": "claude-opus-5-5"}

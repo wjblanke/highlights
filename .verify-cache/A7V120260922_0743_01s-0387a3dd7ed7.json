@@ -1,0 +1,1 @@
+{"category": "unclear", "reason": "The rider jumps and stays upright in the visible air frames, then lands or crashes in a splash where the body is hidden behind the wing and spray. It isn't possible to tell whether the body actually rotated, and the rider doesn't stay standing on the board, so wing_only doesn't fit either.", "model": "claude-opus-5-5"}

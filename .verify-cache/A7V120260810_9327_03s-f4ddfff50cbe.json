@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches a big jump, and the board's orientation changes across the airborne frames (side-on, then bottom, then nose-on), which points to a spin in the air before landing. The rider's body turns with the board, so this is a real aerial rotation rather than a wing flip.", "model": "claude-opus-5-5"}

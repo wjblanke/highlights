@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne high above the water and their body goes through inverted/horizontal positions (frames 0-6, legs and board above the head) before landing, indicating a flip/rotation in the air.", "model": "claude-opus-5-5"}

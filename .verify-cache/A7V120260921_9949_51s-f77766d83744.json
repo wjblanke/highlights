@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches high into the air, and in frames 2-4 the board is above their head, so the body is inverted mid-air. They then come back upright and land in frames 9-11, which indicates a flip or loop.", "model": "claude-opus-5-5"}

@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "In frames 6-8 the rider is airborne and inverted, with the board overhead, clearly flipping in the air before landing in frame 9. This is a jump with a body rotation, not just a wing flip.", "model": "claude-opus-5-5"}

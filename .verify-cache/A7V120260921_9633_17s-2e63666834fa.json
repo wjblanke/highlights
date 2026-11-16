@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne from about frame 2 to frame 10, and the wing sweeps from horizontal back to upright as the rider's body turns. This looks like a spinning jump rather than a simple wing flip while standing on the board.", "model": "claude-opus-5-5"}

@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne above the water through several frames (0-9), with the wing and body orientation changing as they go through a jump with rotation, then land with spray in frame 10. Frame 7 suggests an inverted or tilted body position during the aerial.", "model": "claude-opus-5-5"}

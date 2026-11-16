@@ -1,0 +1,86 @@
+{
+  "title": "Dust Trail Rodeo",
+  "bpm": 124,
+  "key_root": 7,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "maj"
+    },
+    {
+      "semitones_above_key": 7,
+      "quality": "dom7"
+    },
+    {
+      "semitones_above_key": 9,
+      "quality": "min"
+    },
+    {
+      "semitones_above_key": 5,
+      "quality": "sus2"
+    }
+  ],
+  "chord_rhythm": "x-x-x.xxx-x-x.xx",
+  "bass": "r-..f-..r-..f-tt",
+  "kick": "x.......x.......",
+  "clap": "g.g.x.g.g.g.x.gg",
+  "closed_hat": "x.x.x.x.x.x.x.x.",
+  "open_hat": "......x.......x.",
+  "shaker": "xxxxxxxxxxxxxxxx",
+  "arp": "0241024102410242",
+  "arrangement": [
+    {
+      "name": "Intro",
+      "bars": 4,
+      "layers": [
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Verse",
+      "bars": 8,
+      "layers": [
+        "chords",
+        "kick",
+        "clap",
+        "bass"
+      ]
+    },
+    {
+      "name": "Chorus",
+      "bars": 8,
+      "layers": [
+        "chords",
+        "arp",
+        "kick",
+        "clap",
+        "hats",
+        "bass"
+      ]
+    },
+    {
+      "name": "Breakdown",
+      "bars": 4,
+      "layers": [
+        "chords",
+        "kick",
+        "clap"
+      ]
+    },
+    {
+      "name": "Final Chorus",
+      "bars": 8,
+      "layers": [
+        "chords",
+        "arp",
+        "kick",
+        "clap",
+        "hats",
+        "bass"
+      ]
+    }
+  ],
+  "swing": 0.1,
+  "sound": "country"
+}

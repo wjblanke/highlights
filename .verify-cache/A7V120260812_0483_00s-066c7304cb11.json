@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne in the jump frames, and in frame 9 the body appears horizontal or inverted before splashing down, which suggests an aerial rotation or tumbling crash. The figures are small, so this is a best judgement rather than a certain read.", "model": "claude-opus-5-5"}

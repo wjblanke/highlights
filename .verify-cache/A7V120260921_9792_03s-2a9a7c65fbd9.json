@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider leaves the water in a jump, and in frames 4\u20136 the body and board tilt to near-vertical in the air before coming back level to land. This shows a clear aerial rotation of the rider, not just wing handling.", "model": "claude-opus-5-5"}

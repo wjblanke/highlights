@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into a jump, is airborne with the wing overhead, and turns from facing away to facing the camera and back again before landing, which indicates an aerial spin. This orientation change is inferred from the close-ups, so the call is not certain.", "model": "claude-opus-5-5"}

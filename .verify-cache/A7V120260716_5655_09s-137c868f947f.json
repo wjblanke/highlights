@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches high into the air, and the changing orientation of both board and body across frames 2\u20139 suggests a spin about the vertical axis before landing in frame 10. The cue is indirect, but it is more than a wing flip while standing on the board.", "model": "claude-opus-5-5"}

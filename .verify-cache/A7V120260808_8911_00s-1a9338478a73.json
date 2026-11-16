@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into the air and goes inverted (frames 0-5 show the body and board flipping over overhead), completing an aerial rotation before landing and crashing into the water. The horizon stays level in every frame, so this is the rider's own movement, not camera rotation.", "model": "claude-opus-5-5"}

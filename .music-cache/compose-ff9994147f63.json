@@ -1,0 +1,87 @@
+{
+  "title": "Paper Chase Ramp",
+  "bpm": 128,
+  "key_root": 5,
+  "progression": [
+    {
+      "semitones_above_key": 2,
+      "quality": "min7"
+    },
+    {
+      "semitones_above_key": 7,
+      "quality": "dom7"
+    },
+    {
+      "semitones_above_key": 0,
+      "quality": "maj7"
+    },
+    {
+      "semitones_above_key": 9,
+      "quality": "min9"
+    }
+  ],
+  "chord_rhythm": "..x...x-...x.-..",
+  "bass": "r...t...f...b...",
+  "kick": "x.....x.x.....x.",
+  "clap": "....x..g....x.g.",
+  "closed_hat": "x.x.x...x.x.x...",
+  "open_hat": "....x.......x...",
+  "shaker": "x.x.x.x.x.x.x.x.",
+  "arp": "0-2-4---..3-2-1.",
+  "arrangement": [
+    {
+      "name": "Intro",
+      "bars": 4,
+      "layers": [
+        "chords",
+        "bass"
+      ]
+    },
+    {
+      "name": "Groove",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords"
+      ]
+    },
+    {
+      "name": "Horns Enter",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Breakdown",
+      "bars": 4,
+      "layers": [
+        "hats",
+        "bass",
+        "chords"
+      ]
+    },
+    {
+      "name": "Big Finish",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    }
+  ],
+  "swing": 0.3,
+  "sound": "swing"
+}

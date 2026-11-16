@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is clearly airborne above the water across several frames, and the body orientation changes through the jump, appearing sideways or inverted around frames 9\u201310, before landing and riding away in frame 11. This suggests a rotation in the air, though the rider is small in the frame.", "model": "claude-opus-5-5"}

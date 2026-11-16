@@ -1,0 +1,88 @@
+{
+  "title": "Cumbia del Salto Alto",
+  "bpm": 96,
+  "key_root": 9,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "min"
+    },
+    {
+      "semitones_above_key": 8,
+      "quality": "maj"
+    },
+    {
+      "semitones_above_key": 3,
+      "quality": "maj"
+    },
+    {
+      "semitones_above_key": 7,
+      "quality": "dom7"
+    }
+  ],
+  "chord_rhythm": "..x...x...x...x.",
+  "bass": "r-..f-..r-..f.t.",
+  "kick": "x.......x.......",
+  "clap": "..x...x...x...x.",
+  "closed_hat": "..xx..xx..xx..xx",
+  "open_hat": "x...x...x...x...",
+  "shaker": "xxxxxxxxxxxxxxxx",
+  "arp": "4--2-1--0-.2-3--",
+  "arrangement": [
+    {
+      "name": "Intro",
+      "bars": 4,
+      "layers": [
+        "arp",
+        "hats",
+        "bass"
+      ]
+    },
+    {
+      "name": "Verse",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords"
+      ]
+    },
+    {
+      "name": "Chorus",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Break",
+      "bars": 4,
+      "layers": [
+        "hats",
+        "bass",
+        "arp"
+      ]
+    },
+    {
+      "name": "Final Chorus",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    }
+  ],
+  "sound": "cumbia",
+  "swing": 0.0
+}

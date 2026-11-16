@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches high into the air, and mid-jump (frames 5\u20137) the board goes vertical and the body inverts before levelling out again. This indicates an aerial rotation of the rider's own body, not just the wing turning.", "model": "claude-opus-5-5"}

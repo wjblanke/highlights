@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider leaves the water and goes inverted in the air (frames 4-7 show the body and board upside down, board overhead), completing a flip before landing in frame 9. The horizon stays level across the frames, so the rotation is real motion and not a camera effect.", "model": "claude-opus-5-5"}

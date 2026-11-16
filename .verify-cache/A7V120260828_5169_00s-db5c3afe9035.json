@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The main rider launches high into the air (frames 0-2), and the board and body orientation change mid-air, which suggests a spin, before landing with a splash in frame 3. This points to an aerial rotation rather than just a wing flip, though the spin itself is inferred from the changing angles.", "model": "claude-opus-5-5"}

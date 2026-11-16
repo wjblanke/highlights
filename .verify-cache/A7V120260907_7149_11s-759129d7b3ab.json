@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into a jump, and their body tips sideways and around in the air (frames 4\u20136) while the wing swings overhead. They then drop into the water in a crash, so the rider's own body rotates, not just the wing.", "model": "claude-opus-5-5"}

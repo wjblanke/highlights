@@ -1,0 +1,95 @@
+{
+  "title": "Edge Of The Line",
+  "bpm": 124,
+  "key_root": 9,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "min9"
+    },
+    {
+      "semitones_above_key": 8,
+      "quality": "maj7"
+    },
+    {
+      "semitones_above_key": 3,
+      "quality": "maj9"
+    },
+    {
+      "semitones_above_key": 10,
+      "quality": "dom7"
+    }
+  ],
+  "chord_rhythm": "..x-..x...x-.x..",
+  "bass": "..r.o.r.f.r..o.r",
+  "kick": "x...x...x...x...",
+  "clap": "....x.......x...",
+  "closed_hat": "x.x.x.x.x.x.x.xx",
+  "open_hat": "..x...x...x...x.",
+  "shaker": "xxxxxxxxxxxxxxxx",
+  "arp": "0.2.1.3.2.4.3.1.",
+  "arrangement": [
+    {
+      "name": "Intro",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "hats",
+        "chords"
+      ]
+    },
+    {
+      "name": "Groove",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords"
+      ]
+    },
+    {
+      "name": "Lift",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Breakdown",
+      "bars": 4,
+      "layers": [
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Drop",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Ride Out",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass"
+      ]
+    }
+  ]
+}

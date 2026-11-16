@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "In frames 0-4 the rider is airborne with the board above and sideways relative to the body, showing an aerial rotation (spin/flip), before landing in frame 5 and riding away.", "model": "claude-opus-5-5"}

@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into the air with the board, and in frames 4-7 the body and board go inverted and rotate around before landing in frame 8, which makes this an aerial flip or rotation.", "model": "claude-opus-5-5"}

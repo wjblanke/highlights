@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into a high jump, with the board kicked sideways in frames 3\u20134. While airborne, the rider's orientation appears to change through frames 5\u20139 before landing in frame 10, which suggests an aerial rotation.", "model": "claude-opus-5-5"}

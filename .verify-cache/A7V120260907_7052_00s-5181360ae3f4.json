@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The green-wing rider is airborne in frames 0-4, and the wing's position changes from one side of the body to the other before the landing. This suggests a spinning jump rather than just a wing flip while standing on the board.", "model": "claude-opus-5-5"}

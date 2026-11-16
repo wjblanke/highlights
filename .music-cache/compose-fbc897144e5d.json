@@ -1,0 +1,88 @@
+{
+  "title": "Dust Trail Shuffle",
+  "bpm": 124,
+  "key_root": 4,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "dom7"
+    },
+    {
+      "semitones_above_key": 5,
+      "quality": "dom7"
+    },
+    {
+      "semitones_above_key": 7,
+      "quality": "dom7"
+    },
+    {
+      "semitones_above_key": 0,
+      "quality": "dom7"
+    }
+  ],
+  "chord_rhythm": "x.x.x.x-x.x.x---",
+  "bass": "r.t.f.s.b.s.f.t.",
+  "kick": "x.......x.....x.",
+  "clap": "..g.x...g.g.x..g",
+  "closed_hat": "x.x.x.x.x.x.x.x.",
+  "open_hat": "..............x.",
+  "shaker": "..x...x...x...x.",
+  "arp": "..1-0...4---3.0.",
+  "arrangement": [
+    {
+      "name": "Intro",
+      "bars": 4,
+      "layers": [
+        "chords",
+        "bass"
+      ]
+    },
+    {
+      "name": "Groove",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords"
+      ]
+    },
+    {
+      "name": "First Solo",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Breakdown",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "clap",
+        "bass",
+        "arp"
+      ]
+    },
+    {
+      "name": "Full Throttle Solo",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    }
+  ],
+  "swing": 0.3,
+  "sound": "blues"
+}

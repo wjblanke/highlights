@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into the air, and in frames 4-9 the board goes overhead and the rider's body inverts in a full flip, before landing or crashing in frames 10-11. The horizon stays level throughout, so this is real rotation of the rider, not camera tilt.", "model": "claude-opus-5-5"}
