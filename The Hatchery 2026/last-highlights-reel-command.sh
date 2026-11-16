@@ -1,0 +1,3 @@
+#!/bin/sh
+# Last highlights-reel run, 2026-10-21 13:32
+cd /Users/bill/video-highlights && /Users/bill/video-highlights/.venv/bin/highlights-reel -i /Users/bill/highlights -o '/Users/bill/highlights/The Hatchery 2026' --folder '8-28-2026 Hatchery' --folder '9-21-2026 Hatchery' --folder '9-23-2026 Hatchery' --aspect 16:9 --title 'The Hatchery 2026' --outro --credit 'Filmed by John Akagi edited by @billanu' --batch --verify --clip-names --music --music-style '8-28-2026 Hatchery=upbeat country' --music-style '9-21-2026 Hatchery=funk' --music-style '9-23-2026 Hatchery=upbeat deep house' --sharpen 0.5

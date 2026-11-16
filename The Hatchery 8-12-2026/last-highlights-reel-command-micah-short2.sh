@@ -1,0 +1,3 @@
+#!/bin/sh
+# Last highlights-reel run, 2026-10-31 13:11
+cd /Users/bill/video-highlights && /Users/bill/video-highlights/.venv/bin/highlights-reel -i /Users/bill/highlights -o '/Users/bill/highlights/The Hatchery 8-12-2026' --folder 'The Hatchery 8-12-2026' --excludes /private/tmp/claude-501/-Users-bill-video-highlights/412a11f2-6e49-40ac-939f-23a3b6d7872f/scratchpad/micah2/excludes-micah2.json --credit 'Filmed by John Akagi edited by @billanu' --batch --verify --clip-names --riders --photo-riders-only --music --sharpen 0.5 --resolution full --fps 60 --filename TheHatchery8-12-2026_micah_short2.mp4

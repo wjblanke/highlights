@@ -1,0 +1,3 @@
+#!/bin/sh
+# Last highlights-reel run, 2026-11-15 18:22
+cd /Users/bill/video-highlights && /Users/bill/video-highlights/.venv/bin/highlights-reel -i /Users/bill/highlights -o '/Users/bill/highlights/Hatchery 8-8-2026' --folder 'Hatchery 8-8-2026' --aspect 16:9 --title 'The Hatchery 8-8-2026' --outro --credit 'Filmed by John Akagi edited by @billanu' --batch --verify --clip-names --riders --music --music-style 'Ziggy Marley style upbeat, sunny modern reggae: one-drop drums, skank guitar, organ bubble, bouncing melodic bass, bright uplifting melodica lead, original' --music-tempo 1.15 --music-variety --sharpen 0.5 --fps 60

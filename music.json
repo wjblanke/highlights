@@ -1,0 +1,51 @@
+{
+  "8-28-2026 Hatchery": {
+    "style": "upbeat country"
+  },
+  "9-21-2026 Hatchery": {
+    "style": "funk"
+  },
+  "9-23-2026 Hatchery": {
+    "style": "upbeat deep house"
+  },
+  "Arlington 9-25-2026": {
+    "style": "Michael Jackson style 80s dance-pop funk: tight drum machine groove, driving synth bass, crisp guitar and synth stabs, original"
+  },
+  "Rufus 9-7-2026": {
+    "style": "Pink Floyd style psychedelic rock",
+    "tempo": 1.25
+  },
+  "The Hatchery 8-10-2026": {
+    "style": "Nine Inch Nails style dark industrial: pounding distorted drum machine, grinding synth bass, cold menacing synths"
+  },
+  "The Hatchery 8-22-2026": {
+    "style": "Earth, Wind & Fire style 70s funk and soul with a horn section"
+  },
+  "The Hatchery 9-7-2026": {
+    "style": "Steely Dan style jazz-rock"
+  },
+  "The Hatchery Video 9-22-2026": {
+    "style": "Led Zeppelin style heavy 70s hard rock, riff-driven with a psychedelic edge",
+    "tempo": 1.15,
+    "lead": "flute"
+  },
+  "The Hatchery Videos 7-16-2026": {
+    "style": "Cameo \"Word Up\" style 80s electro-funk: tight drum machine, slap bass, synth stabs",
+    "chords": "held"
+  },
+  "The Wall 9-25-2026": {
+    "style": "Los Angeles Azules style cumbia"
+  },
+  "The Hatchery 8-12-2026": {
+    "style": "Stewart Copeland 'Theme from The Equalizer' style 1980s dark synth thriller theme: driving drum machine, pulsing sequenced minor-key synth bass, moody synth chord stabs, urgent arpeggiated synth lead, original"
+  },
+  "The Hatchery Video 8-15-2026": {
+    "style": "Jan Hammer 'Theme from Miami Vice' style 1980s synth instrumental: driving drum machine with a big gated snare, pulsing eighth-note synth bass, bright brassy synth chord stabs, soaring synth lead, original",
+    "variety": true
+  },
+  "Hatchery 8-8-2026": {
+    "style": "Ziggy Marley style upbeat, sunny modern reggae: one-drop drums, skank guitar, organ bubble, bouncing melodic bass, bright uplifting melodica lead, original",
+    "tempo": 1.15,
+    "variety": true
+  }
+}

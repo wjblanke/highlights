@@ -1,0 +1,3 @@
+#!/bin/sh
+# Last highlights-reel run, 2026-10-23 18:41
+cd /Users/bill/video-highlights && /Users/bill/video-highlights/.venv/bin/highlights-reel -i /Users/bill/highlights -o '/Users/bill/highlights/Gorge 2026' --folder 'The Hatchery Videos 7-16-2026' --folder 'The Hatchery 8-10-2026' --folder 'The Hatchery 8-22-2026' --folder '8-28-2026 Hatchery' --folder 'The Hatchery 9-7-2026' --folder 'Rufus 9-7-2026' --folder '9-21-2026 Hatchery' --folder 'The Hatchery Video 9-22-2026' --folder '9-23-2026 Hatchery' --folder 'The Wall 9-25-2026' --folder 'Arlington 9-25-2026' --aspect 16:9 --title 'Gorge 2026' --outro --credit 'Filmed by John Akagi edited by @billanu' --batch --verify --clip-names --music --sharpen 0.5
