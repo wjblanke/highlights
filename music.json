@@ -19,7 +19,9 @@
     "style": "Nine Inch Nails style dark industrial: pounding distorted drum machine, grinding synth bass, cold menacing synths"
   },
   "The Hatchery 8-22-2026": {
-    "style": "Earth, Wind & Fire style 70s funk and soul with a horn section"
+    "style": "Earth, Wind & Fire style 70s funk and soul with a horn section",
+    "chords": "held",
+    "variety": true
   },
   "The Hatchery 9-7-2026": {
     "style": "Steely Dan style jazz-rock"
