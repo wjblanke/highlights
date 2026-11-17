@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is high in the air and their body goes inverted through frames 3-6 (board above head, upside down) before landing upright, a clear aerial flip. The horizon stays level, so the rotation is real rider motion, not the camera.", "model": "claude-opus-5-5"}

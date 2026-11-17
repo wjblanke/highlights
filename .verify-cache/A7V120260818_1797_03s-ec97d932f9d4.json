@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into a big jump and the body and board turn through the air, going from facing away to facing the camera across frames 4-9, before landing in frame 11. This is an aerial spin, not just a wing flip.", "model": "claude-opus-5-5"}

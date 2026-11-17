@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into the air and his body goes horizontal and inverted (frames 6-7, board above head level) before coming back upright to land, which is an aerial flip or rotation. The camera stays level and the background horizon stays steady, so the rotation is real rider motion.", "model": "claude-opus-5-5"}

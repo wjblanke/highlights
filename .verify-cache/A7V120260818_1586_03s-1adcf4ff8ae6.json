@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into a jump and the board swings from vertical through tilted back to level (frames 4-8) before the landing in frames 9-10. That pattern suggests the rider's body rotates in the air in a loop.", "model": "claude-opus-5-5"}

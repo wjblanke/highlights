@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches high out of the water and the board and body change orientation mid-air across frames 1-5, showing a rotational jump. The rider then lands back on the foil in frame 6.", "model": "claude-opus-5-5"}

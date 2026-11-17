@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "In frames 0-3 the rider is airborne and inverted with the board and foil above them, flipping in the air before landing upright in frame 4. The background stays level throughout, so the rotation is the rider's own body and not the camera.", "model": "claude-opus-5-5"}

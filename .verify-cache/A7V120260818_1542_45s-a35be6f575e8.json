@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The tracked rider in the early frames is airborne and appears horizontal or inverted mid-air, suggesting a rotation during the jump. Later frames switch to a different rider with an orange wing who stays standing, but the jumper's in-air rotation looks like the highlight.", "model": "claude-opus-5-5"}

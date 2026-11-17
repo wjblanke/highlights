@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "In frames 0-2 the rider is airborne and inverted, with the board above the head, which shows a flip or rotation in the air. By frame 3 the rider has landed, and the later frames show the wing over the water.", "model": "claude-opus-5-5"}

@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into a jump, and in frames 4\u20136 the body and board are tilted far off vertical, with the board turned sideways, before coming back upright by frames 7\u201311. That points to an aerial rotation rather than just the wing flipping.", "model": "claude-opus-5-5"}

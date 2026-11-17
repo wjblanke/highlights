@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "In frames 0-3 the rider and board leave the water and her body turns roughly 180\u00b0 in the air before landing, a jump transition rather than just a wing flip. This is a judgement call, since the rotation is modest and could also be read as a hopped tack.", "model": "claude-opus-5-5"}

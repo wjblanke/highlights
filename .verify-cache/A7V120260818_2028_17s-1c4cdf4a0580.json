@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "Near the end the main rider launches off the water in a burst of spray and comes back down, and his body orientation changes between the takeoff and landing frames. This suggests an aerial spin rather than just a wing flip, though the rotation is hard to confirm at this frame rate.", "model": "claude-opus-5-5"}

@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne and goes inverted, with the board overhead in frame 2, completing a flip before landing on the water. The background stays level throughout, so this is real body rotation rather than camera motion.", "model": "claude-opus-5-5"}

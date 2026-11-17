@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches off the water and in frames 4-7 is inverted in the air (board above, body upside down under the wing) before landing upright, indicating a flip/rotation of the body. The background stays level, so it's real motion.", "model": "claude-opus-5-5"}

@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "In frame 5 the rider is airborne in a crouched jump and then turns behind the wing through frames 6\u201310. By frame 11 they land facing the opposite way, which suggests a rotating jump rather than just a wing flip.", "model": "claude-opus-5-5"}

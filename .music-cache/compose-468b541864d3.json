@@ -1,0 +1,88 @@
+{
+  "title": "Velocity Symphony",
+  "bpm": 116,
+  "key_root": 9,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "min"
+    },
+    {
+      "semitones_above_key": 8,
+      "quality": "maj"
+    },
+    {
+      "semitones_above_key": 10,
+      "quality": "maj"
+    },
+    {
+      "semitones_above_key": 7,
+      "quality": "dom7"
+    }
+  ],
+  "chord_rhythm": "x..x..x.x-------",
+  "bass": "r.o.r.o.rro.f.o.",
+  "kick": "x...x...x...x...",
+  "clap": "....x.....g.x...",
+  "closed_hat": "xxxxxxxxxxxxxxxx",
+  "open_hat": "..x...x...x...x.",
+  "shaker": "..x...x...x...x.",
+  "arp": "222.4-----..111.",
+  "arrangement": [
+    {
+      "name": "Dramatic Intro",
+      "bars": 4,
+      "layers": [
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Groove In",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords"
+      ]
+    },
+    {
+      "name": "Theme",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Break",
+      "bars": 4,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass"
+      ]
+    },
+    {
+      "name": "Finale Theme",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    }
+  ],
+  "sound": "disco",
+  "swing": 0.0
+}
