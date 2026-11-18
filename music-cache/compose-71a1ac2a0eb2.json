@@ -1,0 +1,87 @@
+{
+  "title": "Polvo y Gloria",
+  "bpm": 124,
+  "key_root": 7,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "maj"
+    },
+    {
+      "semitones_above_key": 5,
+      "quality": "maj"
+    },
+    {
+      "semitones_above_key": 7,
+      "quality": "dom7"
+    },
+    {
+      "semitones_above_key": 0,
+      "quality": "maj"
+    }
+  ],
+  "chord_rhythm": "x.x...x...x...x-",
+  "bass": "r...f...r...f.tf",
+  "kick": "x...x...x...x...",
+  "clap": "..x...x.g.x...xg",
+  "closed_hat": "x.x.x.x.x.x.x.x.",
+  "open_hat": "..............x.",
+  "shaker": "xxxxxxxxxxxxxxxx",
+  "arp": "0123432.2222321-",
+  "arrangement": [
+    {
+      "name": "Intro",
+      "bars": 4,
+      "layers": [
+        "arp",
+        "chords"
+      ]
+    },
+    {
+      "name": "Verse",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords"
+      ]
+    },
+    {
+      "name": "Chorus",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Accordion Break",
+      "bars": 4,
+      "layers": [
+        "arp",
+        "bass",
+        "clap"
+      ]
+    },
+    {
+      "name": "Final Chorus",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    }
+  ],
+  "sound": "tejano",
+  "swing": 0.0
+}

@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne and the board goes overhead/sideways in frames 2-4 as the body inverts in a flip (backloop) before landing in frame 7, then crashes into the water.", "model": "claude-opus-5-5"}

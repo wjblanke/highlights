@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider leaves the water with the board (frames 4-8), the board goes from vertical beside the body to horizontal under the feet, and the body rotates in the air before landing. This is a jump with an aerial rotation, not just a wing flip.", "model": "claude-opus-5-5"}
