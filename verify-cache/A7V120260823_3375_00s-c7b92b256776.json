@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches high into the air (frames 2-10), and the silhouette changes orientation through the airborne frames, appearing inverted near frame 10, which suggests a rotation. The rider then lands riding in frame 11, though they are small and partly at the frame edge.", "model": "claude-opus-5-5"}

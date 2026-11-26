@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne and goes upside down (frames 1-3 show the rider and board inverted overhead) before landing, so the rider's own body performs a flip. They then crash into the water.", "model": "claude-opus-5-5"}

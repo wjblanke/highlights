@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches into the air (frames 2-8) and the board's orientation swings around while airborne, which indicates a spin, before landing with a splash in frames 9-11. The wing stays overhead throughout, so the turning comes from the rider's body rather than a wing flip.", "model": "claude-opus-5-5"}

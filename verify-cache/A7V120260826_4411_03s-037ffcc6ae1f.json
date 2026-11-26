@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The main kiteboarder takes a big jump, and while airborne the body and board swing from facing one side (frames 1\u20133) to the opposite side (frames 4\u20137), suggesting an aerial rotation before landing (frames 8\u201310). The rider is small and the turn is not clearly visible, so this is a tentative call.", "model": "claude-opus-5-5"}

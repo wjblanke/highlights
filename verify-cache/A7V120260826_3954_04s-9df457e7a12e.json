@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The yellow-wing rider is airborne across several frames, appearing sideways in frame 4 and inverted in frame 8 before landing upright, which indicates a flip or rotation in the air rather than just a wing turn.", "model": "claude-opus-5-5"}

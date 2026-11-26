@@ -1,0 +1,192 @@
+{
+  "title": "Sideways Off the Lip",
+  "bpm": 160,
+  "key_root": 10,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "dom7"
+    },
+    {
+      "semitones_above_key": 5,
+      "quality": "dom7"
+    },
+    {
+      "semitones_above_key": 8,
+      "quality": "dom7"
+    },
+    {
+      "semitones_above_key": 1,
+      "quality": "dom7"
+    }
+  ],
+  "chord_rhythm": "..x.......x.....",
+  "bass": "r...t...f...b...",
+  "kick": "x...x...x...x...",
+  "clap": "....g.....x...g.",
+  "closed_hat": "x...x.x.x...x.x.",
+  "open_hat": "....x.......x...",
+  "shaker": "x.......x.......",
+  "arrangement": [
+    {
+      "name": "Intro (solo piano)",
+      "bars": 4,
+      "layers": [
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Head",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Trading",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords"
+      ]
+    },
+    {
+      "name": "Head Out",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Tag",
+      "bars": 4,
+      "layers": [
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    }
+  ],
+  "swing": 0.3,
+  "melody": [
+    {
+      "step": 2,
+      "pitch": 10,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 4,
+      "pitch": 7,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 6,
+      "pitch": 4,
+      "length": 4,
+      "kind": "crush"
+    },
+    {
+      "step": 12,
+      "pitch": 4,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 18,
+      "pitch": 15,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 20,
+      "pitch": 12,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 22,
+      "pitch": 9,
+      "length": 4,
+      "kind": "crush"
+    },
+    {
+      "step": 28,
+      "pitch": 9,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 32,
+      "pitch": 6,
+      "length": 2,
+      "kind": "cluster"
+    },
+    {
+      "step": 34,
+      "pitch": 6,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 36,
+      "pitch": 6,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 38,
+      "pitch": 3,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 40,
+      "pitch": 0,
+      "length": 6,
+      "kind": "note"
+    },
+    {
+      "step": 50,
+      "pitch": 11,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 52,
+      "pitch": 5,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 54,
+      "pitch": 7,
+      "length": 4,
+      "kind": "cluster"
+    },
+    {
+      "step": 58,
+      "pitch": 14,
+      "length": 6,
+      "kind": "run"
+    }
+  ],
+  "sound": "monk",
+  "arp": "................"
+}

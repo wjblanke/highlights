@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The main rider launches into a big aerial jump, and while airborne the body orientation changes from side-on to facing the camera, which suggests an in-air spin rather than just a wing flip. This is a best guess: no full rotation is clearly visible in the close-ups.", "model": "claude-opus-5-5"}

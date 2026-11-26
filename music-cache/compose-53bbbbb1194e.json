@@ -1,0 +1,216 @@
+{
+  "title": "Tailwind Tumble",
+  "bpm": 138,
+  "key_root": 5,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "maj9"
+    },
+    {
+      "semitones_above_key": 9,
+      "quality": "min9"
+    },
+    {
+      "semitones_above_key": 2,
+      "quality": "min7"
+    },
+    {
+      "semitones_above_key": 7,
+      "quality": "dom7"
+    }
+  ],
+  "chord_rhythm": "x..x..x...x.x...",
+  "bass": "r...t...f...b...",
+  "kick": "x.......x.......",
+  "clap": "....x..g....x..g",
+  "closed_hat": "x...x.x.x...x.x.",
+  "open_hat": "....x.......x...",
+  "shaker": "x.......x.......",
+  "arrangement": [
+    {
+      "name": "Intro (solo piano)",
+      "bars": 4,
+      "layers": [
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Head",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Comping Break",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords"
+      ]
+    },
+    {
+      "name": "Head Again",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Outro",
+      "bars": 4,
+      "layers": [
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    }
+  ],
+  "swing": 0.0,
+  "melody": [
+    {
+      "step": 0,
+      "pitch": 7,
+      "length": 2,
+      "kind": "octave"
+    },
+    {
+      "step": 2,
+      "pitch": 9,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 4,
+      "pitch": 12,
+      "length": 4,
+      "kind": "octave"
+    },
+    {
+      "step": 8,
+      "pitch": 9,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 10,
+      "pitch": 7,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 14,
+      "pitch": 4,
+      "length": 4,
+      "kind": "octave"
+    },
+    {
+      "step": 20,
+      "pitch": 7,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 22,
+      "pitch": 9,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 24,
+      "pitch": 11,
+      "length": 6,
+      "kind": "octave"
+    },
+    {
+      "step": 32,
+      "pitch": 9,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 34,
+      "pitch": 12,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 36,
+      "pitch": 14,
+      "length": 4,
+      "kind": "octave"
+    },
+    {
+      "step": 40,
+      "pitch": 12,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 42,
+      "pitch": 9,
+      "length": 2,
+      "kind": "crush"
+    },
+    {
+      "step": 44,
+      "pitch": 7,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 46,
+      "pitch": 11,
+      "length": 4,
+      "kind": "octave"
+    },
+    {
+      "step": 50,
+      "pitch": 7,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 52,
+      "pitch": 5,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 54,
+      "pitch": 4,
+      "length": 2,
+      "kind": "note"
+    },
+    {
+      "step": 56,
+      "pitch": 2,
+      "length": 4,
+      "kind": "note"
+    },
+    {
+      "step": 60,
+      "pitch": 9,
+      "length": 4,
+      "kind": "run"
+    }
+  ],
+  "sound": "guaraldi",
+  "arp": "................"
+}

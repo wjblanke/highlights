@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The kiteboarder launches off the water and stays airborne across many frames, with the body orientation changing in the air (appearing inverted or rotating around frames 1-4 and 8-10) before landing in frame 11. This is consistent with a jump with a rotation, though the rider is small in the frame.", "model": "claude-opus-5-5"}

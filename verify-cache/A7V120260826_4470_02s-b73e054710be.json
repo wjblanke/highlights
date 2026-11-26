@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The main kiteboarder pops off the water into a jump, and across frames 5\u20139 his body orientation changes (back to camera, then turned side-on, then back again), suggesting an aerial spin before he lands and rides away. The rotation is not shown unambiguously, so this call is moderately uncertain.", "model": "claude-opus-5-5"}

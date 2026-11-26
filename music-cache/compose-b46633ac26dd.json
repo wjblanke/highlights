@@ -1,0 +1,87 @@
+{
+  "title": "Golden Swell at Makapu\u02bbu",
+  "bpm": 84,
+  "key_root": 0,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "maj7"
+    },
+    {
+      "semitones_above_key": 9,
+      "quality": "min7"
+    },
+    {
+      "semitones_above_key": 5,
+      "quality": "maj"
+    },
+    {
+      "semitones_above_key": 7,
+      "quality": "dom7"
+    }
+  ],
+  "chord_rhythm": "x.x.-xx.x-x.-xx.",
+  "bass": "r--.f-r.r--.f-o.",
+  "kick": "x.......x.......",
+  "clap": "....x..g....x.g.",
+  "closed_hat": "..x...x...x...x.",
+  "open_hat": "..............x.",
+  "shaker": "x.x.x.x.x.x.x.x.",
+  "arp": "2---1-0-.....1-2",
+  "arrangement": [
+    {
+      "name": "intro",
+      "bars": 4,
+      "layers": [
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "verse",
+      "bars": 8,
+      "layers": [
+        "chords",
+        "bass",
+        "kick",
+        "clap",
+        "hats"
+      ]
+    },
+    {
+      "name": "chorus",
+      "bars": 8,
+      "layers": [
+        "chords",
+        "bass",
+        "kick",
+        "clap",
+        "hats",
+        "arp"
+      ]
+    },
+    {
+      "name": "break",
+      "bars": 4,
+      "layers": [
+        "chords",
+        "bass",
+        "clap"
+      ]
+    },
+    {
+      "name": "chorus_out",
+      "bars": 8,
+      "layers": [
+        "chords",
+        "bass",
+        "kick",
+        "clap",
+        "hats",
+        "arp"
+      ]
+    }
+  ],
+  "sound": "hawaiian",
+  "swing": 0.1
+}

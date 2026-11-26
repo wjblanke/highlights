@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The kiteboarder leaves the water in a jump, and their body orientation changes through the air (back turned mid-jump in frame 6) before landing. This suggests a rotation, though the rider is small, so confidence is moderate.", "model": "claude-opus-5-5"}

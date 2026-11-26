@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne through the middle frames, and by the final frames the body is tilted sideways with the board swinging up near the wing. This indicates the body itself is rotating in a jump or tumble, not just the wing flipping.", "model": "claude-opus-5-5"}

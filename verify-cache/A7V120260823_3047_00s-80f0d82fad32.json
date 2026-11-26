@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne and starts horizontal or inverted with the board above (frames 0-1), then rotates through upright in the air (frames 2-6) before landing and riding away. This is a flip-type aerial rotation of the rider's body.", "model": "claude-opus-5-5"}

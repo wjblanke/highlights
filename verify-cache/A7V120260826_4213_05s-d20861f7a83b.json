@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider launches high into the air (frames 3-7), and in frame 4 the body and board are tilted nearly sideways before coming back upright and landing. This indicates an aerial rotation of the rider's own body, not just the wing turning.", "model": "claude-opus-5-5"}

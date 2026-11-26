@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider leaves the water in frames 3\u20137 with the board airborne. The wing passes overhead and the body turns around during the jump before landing in frame 9, which points to an aerial spin rather than a standing wing flip.", "model": "claude-opus-5-5"}

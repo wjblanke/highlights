@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne and inverted in the first frames (body horizontal or upside down with the board overhead), then comes around to land upright on the board, which shows a flip or rotation in the air.", "model": "claude-opus-5-5"}

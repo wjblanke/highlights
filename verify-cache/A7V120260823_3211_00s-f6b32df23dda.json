@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The wing foiler leaves the water around frame 3 and is still airborne in frames 6\u20137. Across the jump his body turns from facing the camera (frames 0\u20132), to facing away (frames 4\u20135), and back to facing it again, which suggests an aerial spin rather than a wing flip alone.", "model": "claude-opus-5-5"}

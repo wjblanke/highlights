@@ -1,0 +1,88 @@
+{
+  "title": "Kickflip Off the Bandstand",
+  "bpm": 152,
+  "key_root": 10,
+  "progression": [
+    {
+      "semitones_above_key": 0,
+      "quality": "dom7"
+    },
+    {
+      "semitones_above_key": 5,
+      "quality": "dom7"
+    },
+    {
+      "semitones_above_key": 6,
+      "quality": "dom7"
+    },
+    {
+      "semitones_above_key": 7,
+      "quality": "dom7"
+    }
+  ],
+  "chord_rhythm": "..x.....x.....x.",
+  "bass": "r---t---f---b---",
+  "kick": "x...x...x...x...",
+  "clap": "....g.....x...g.",
+  "closed_hat": "x...x.x.x...x.x.",
+  "open_hat": "....x.......x...",
+  "shaker": "x.......x.......",
+  "arp": "0.4.c...3.3.4.w.",
+  "arrangement": [
+    {
+      "name": "Intro (solo piano)",
+      "bars": 4,
+      "layers": [
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Head",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Trading (bass and drums)",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords"
+      ]
+    },
+    {
+      "name": "Head Out",
+      "bars": 8,
+      "layers": [
+        "kick",
+        "clap",
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    },
+    {
+      "name": "Closing Tag",
+      "bars": 4,
+      "layers": [
+        "hats",
+        "bass",
+        "chords",
+        "arp"
+      ]
+    }
+  ],
+  "swing": 0.31,
+  "sound": "monk"
+}

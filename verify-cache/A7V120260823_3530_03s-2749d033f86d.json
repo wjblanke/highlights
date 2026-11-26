@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider jumps and in frames 7-9 is inverted (board above, rider upside down), flipping before splashing down, so the rider's body clearly rotates.", "model": "claude-opus-5-5"}

@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne high above the water with the board above/inverted relative to the body in frames 0-4, indicating a flip/rotation in the air before landing in frame 5.", "model": "claude-opus-5-5"}

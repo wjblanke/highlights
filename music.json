@@ -61,5 +61,13 @@
   "The Hatchery 8-19-2026": {
     "style": "Tejano conjunto style: polka two-step drums, accordion lead with runs in thirds, bajo sexto strums, root-fifth bass, original",
     "variety": true
+  },
+  "Hatchery 8-23-2026": {
+    "style": "Israel Kamakawiwo\u02bbole (IZ) style gentle Hawaiian: strummed ukulele, slack-key guitar, sliding steel guitar lead, soft round bass, light ipu and shaker, original",
+    "variety": true
+  },
+  "Hatchery 8-25-2026": {
+    "style": "Vince Guaraldi style jazz piano trio: warm, playful, singable piano melody in octaves, lush chords, upright bass, brushes, original",
+    "variety": true
   }
 }

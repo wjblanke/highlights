@@ -1,0 +1,1 @@
+{"category": "wing_only", "reason": "The windsurfer does a small straight jump in frames 1-3 and lands in frame 4 with the same orientation. The body never flips or spins; only the sail and board tilt during the hop.", "model": "claude-opus-5-5"}

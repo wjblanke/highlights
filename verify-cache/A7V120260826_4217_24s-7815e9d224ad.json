@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The rider is airborne several times, and in some frames the board appears above the body with the legs pointing up, which suggests an inverted flip or rotation rather than just the wing turning.", "model": "claude-opus-5-5"}

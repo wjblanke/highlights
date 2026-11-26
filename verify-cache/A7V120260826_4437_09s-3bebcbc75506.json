@@ -1,0 +1,1 @@
+{"category": "rider_rotates", "reason": "The main kiter launches a jump in frames 4\u20138, and their body goes horizontal and then inverted with the board above them before they land. This is an aerial rotation such as a backroll.", "model": "claude-opus-5-5"}
